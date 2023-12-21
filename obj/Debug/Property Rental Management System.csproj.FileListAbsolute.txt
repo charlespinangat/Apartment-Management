@@ -1,0 +1,28 @@
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\bin\Debug\Property Rental Management System.exe.config
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\bin\Debug\Property Rental Management System.exe
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\bin\Debug\Property Rental Management System.pdb
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\obj\Debug\Property Rental Management System.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\obj\Debug\App.g.cs
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\obj\Debug\Property Rental Management System_MarkupCompile.cache
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\obj\Debug\Property Rental Management System_MarkupCompile.lref
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\obj\Debug\Property Rental Management System.g.resources
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\obj\Debug\Property_Rental_Management_System.Properties.Resources.resources
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\obj\Debug\Property Rental Management System.csproj.GenerateResource.cache
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\obj\Debug\Property Rental Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\obj\Debug\Property Rental Management System.exe
+C:\Users\User\Documents\PERSONAL DOCS\ROY\vanier\block4\APPLICATION DEVELOPMENT\project\wpfFiles\Property Rental Management System\obj\Debug\Property Rental Management System.pdb
+C:\Users\HP\Desktop\desktop app project\PROPERTY-RENTAL-MANAGEMENT-SYSTEM\PROPERTY RENTAL MANAGEMENT SYSTEM\PRMS_wpf\obj\Debug\Property Rental Management System.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\desktop app project\PROPERTY-RENTAL-MANAGEMENT-SYSTEM\PROPERTY RENTAL MANAGEMENT SYSTEM\PRMS_wpf\obj\Debug\Lease.g.cs
+C:\Users\HP\Desktop\desktop app project\PROPERTY-RENTAL-MANAGEMENT-SYSTEM\PROPERTY RENTAL MANAGEMENT SYSTEM\PRMS_wpf\obj\Debug\LogIn.g.cs
+C:\Users\HP\Desktop\desktop app project\PROPERTY-RENTAL-MANAGEMENT-SYSTEM\PROPERTY RENTAL MANAGEMENT SYSTEM\PRMS_wpf\obj\Debug\Maintenance.g.cs
+C:\Users\HP\Desktop\desktop app project\PROPERTY-RENTAL-MANAGEMENT-SYSTEM\PROPERTY RENTAL MANAGEMENT SYSTEM\PRMS_wpf\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\desktop app project\PROPERTY-RENTAL-MANAGEMENT-SYSTEM\PROPERTY RENTAL MANAGEMENT SYSTEM\PRMS_wpf\obj\Debug\Properties.g.cs
+C:\Users\HP\Desktop\desktop app project\PROPERTY-RENTAL-MANAGEMENT-SYSTEM\PROPERTY RENTAL MANAGEMENT SYSTEM\PRMS_wpf\obj\Debug\Tenants.g.cs
+C:\Users\HP\Desktop\desktop app project\PROPERTY-RENTAL-MANAGEMENT-SYSTEM\PROPERTY RENTAL MANAGEMENT SYSTEM\PRMS_wpf\obj\Debug\Transactions.g.cs
+C:\Users\HP\Desktop\desktop app project\PROPERTY-RENTAL-MANAGEMENT-SYSTEM\PROPERTY RENTAL MANAGEMENT SYSTEM\PRMS_wpf\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\desktop app project\PROPERTY-RENTAL-MANAGEMENT-SYSTEM\PROPERTY RENTAL MANAGEMENT SYSTEM\PRMS_wpf\obj\Debug\Property Rental Management System_MarkupCompile.cache
+C:\Users\HP\Desktop\desktop app project\PROPERTY-RENTAL-MANAGEMENT-SYSTEM\PROPERTY RENTAL MANAGEMENT SYSTEM\PRMS_wpf\obj\Debug\Property Rental Management System_MarkupCompile.lref
+C:\Users\HP\Desktop\desktop app project\PROPERTY-RENTAL-MANAGEMENT-SYSTEM\PROPERTY RENTAL MANAGEMENT SYSTEM\PRMS_wpf\obj\Debug\Property Rental Management System.exe
+C:\Users\HP\Desktop\desktop app project\PROPERTY-RENTAL-MANAGEMENT-SYSTEM\PROPERTY RENTAL MANAGEMENT SYSTEM\PRMS_wpf\obj\Debug\Property Rental Management System.pdb
